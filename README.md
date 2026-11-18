@@ -1,4 +1,3 @@
-                                                       ![My Photo](image-1024.jpg)
 
                                                                 
                                                                       
