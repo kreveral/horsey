@@ -1,7 +1,12 @@
+#  Hello! I'm Jolo L. Arceo
 
-                                                                
-                                                                      
-                                                         👋 Hi, I'm Jolo L. Arceo
+
+<p align="center">
+  <img src="241.jfif" width="100" alt="My Photo">
+</p>
+
+
+  
 ## 🌟 About Me
 
 I'm a curious learner who enjoys turning ideas into working programs. When I get stuck, I take a step back, read the error carefully, and test one small fix at a time until the problem is solved. I believe every bug is a chance to learn something new, and I'm always trying to write code that is clean, simple, and easy to understand.
