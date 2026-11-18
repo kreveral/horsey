@@ -1,4 +1,4 @@
-                                                     ![My Photo](./images/image-1024.jpg)
+                                                       ![My Photo](image-1024.jpg)
 
                                                                 
                                                                       
