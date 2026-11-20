@@ -140,8 +140,9 @@ Building my programming foundation.
 
 ## ✦ 04. MY PROJECTS
 
-### 🧪 ITE 104 – Laboratory Tasks
-
+## Midterm Lab Tasks
+- [Labtask 1](https://github.com/kreveral/horsey/blob/main/Midterm%20Lab%20Task/Labtask%201.pdf)
+- [Labtask 2](https://github.com/kreveral/horsey/blob/main/Midterm%20Lab%20Task/Labtask%202.pdf)
 <table width="100%">
 <tr>
 <td>
